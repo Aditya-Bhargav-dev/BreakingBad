@@ -1,0 +1,27 @@
+.card-img-top {
+  max-height: 450px;
+  min-height: 450px;
+  object-fit: cover;
+}
+
+body {
+  background-color: #000;
+}
+
+p {
+  font-family: cursive;
+}
+
+label {
+  font-family: cursive;
+  font-size: 30px;
+  color: blanchedalmond;
+}
+
+span {
+  font-weight: bold;
+}
+
+.logo {
+  height: 300px;
+}
